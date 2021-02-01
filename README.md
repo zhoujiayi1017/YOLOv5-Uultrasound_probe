@@ -1,5 +1,10 @@
 # YOLOv5-Uultrasound_probe
+
+Real time object detection with deployment of YOLOv5 through LibTorch C++ API
+
 Combining deep learning (YOLOv5) with ultrasonic robots for real-time detection of target organs
+
+
 
 I used CMake to generate the C++ program for loading the YOLOv5 weights by Libtorch.
 You may refer https://www.freesion.com/article/272917092/ for details.
